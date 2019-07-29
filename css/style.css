@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.up-col {
+    background-color:red;
+}
+.mid-col{
+    background-color:green;
+}
+.left-col{
+    background-color:blue;
+}
+.cen-col{
+    background-color:red;
+}
+.right-col{
+    background-color:yellow;
+}
+.row3{
+    height: 350px;
+}
+.row1{
+    background-color:red;
+    height: 150px;
+
+}
+.row2{
+    background-color:red;
+    height: 150px;
+}
